@@ -7,4 +7,4 @@ yarn
 yarn dev
 ```
 
-![image](./public/demo-earth)
+![image](./public/demo-earth.png)
